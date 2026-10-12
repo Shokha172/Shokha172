@@ -5,13 +5,16 @@
   Style: Premium dark / blue-green / software engineering
 -->
 
+
 <div align="center">
   <img
-    src="Shokha172_%20Neonli%20dasturchi%20portfeli.png"
-    alt="Shokha172 — Software Engineer"
+    src="Qorong‘u%20fond a%20dasturchi%20silueti.png"
+    alt="Shokha172 — Developer"
     width="100%"
   />
 </div>
+
+<br/>
 
 <br/>
 
