@@ -7,7 +7,7 @@
 
 <div align="center">
   <img
-    src="Qorong‘u%20fonda%20dasturchi%20silueti.png"
+    src="photo_2026-10-12_23-37-13.jpg"
     alt="Shokha172 — Developer"
     width="100%"
   />
