@@ -6,6 +6,16 @@
 -->
 
 <div align="center">
+  <img
+    src="Shokha172_%20Neonli%20dasturchi%20portfeli.png"
+    alt="Shokha172 — Software Engineer"
+    width="100%"
+  />
+</div>
+
+<br/>
+
+<div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0D1117,50:102A43,100:0D1117&text=SHOHJAHON%20ABDULLAYEV&fontSize=34&fontColor=E6EDF3&fontAlignY=43&desc=FULL-STACK%20DEVELOPER%20%7C%20WEB%20ENGINEER%20%7C%20AI&descSize=13&descAlignY=65&descColor=58A6FF" width="100%" alt="Premium developer header" />
 
